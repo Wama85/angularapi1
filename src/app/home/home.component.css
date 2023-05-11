@@ -1,0 +1,21 @@
+table, td ,th{
+    border: 1px solid black;
+}
+table
+{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+
+}
+th{
+    height: 30px;
+    border: 1px solid black;
+}
+tr th{
+    height: 30px;
+    text-align: center;
+    background-color: aquamarine;
+    border-bottom: 1px solid brown;
+}
